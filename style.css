@@ -1,0 +1,70 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20;
+}
+.mainalign{
+    background-image: url(/LandingPage/greenbg.png);
+    height: 829px;
+    margin: auto;
+    width: 1100px;
+}
+#maintitle{
+    color: white;
+}
+.flex2
+{ 
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    padding: 10px;
+}
+#mar{
+    margin-right: 25px;
+}
+.flex1{
+    margin-left: 50px;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    margin-right: 385px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#space{
+    margin-top: 150px;
+}
+.ctxt{
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}
+#bigtxt{
+    font-size: 54px;
+    text-decoration: solid;
+    color: white;
+}
+#txt2{
+    margin: auto;
+    width: 650px;
+    color: white;
+}
+#button{
+    margin-top: 48px;
+    color: #2A2C3D;
+    background-color: white;
+    padding: 10px;
+    text-decoration: solid;
+}
+#margintop{
+    margin-top: 48px;
+}
+#empimage{
+    width: 950px;
+}
+@media screen and (max-width: 768px) {
+    .mainalign {
+        width: 90%;
+    }
+}
