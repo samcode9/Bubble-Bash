@@ -3,7 +3,7 @@
     font-size: 20;
 }
 .mainalign{
-    background-image: url(/LandingPage/greenbg.png);
+    background-color: #2F6B4F;
     height: 829px;
     margin: auto;
     width: 1100px;
@@ -74,6 +74,7 @@ a{
     color: #2A2C3D;
     margin-left: 120px;
 }
+
 
 
 
