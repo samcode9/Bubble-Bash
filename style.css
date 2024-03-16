@@ -26,7 +26,7 @@
     display: flex;
     justify-content:flex-start;
     align-items: center;
-    margin-right: 385px;
+    margin-right: 415px;
 }
 a{
     text-decoration: none;
@@ -63,6 +63,20 @@ a{
 #empimage{
     width: 950px;
 }
+.numbers{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 50px;
+}
+.client{
+    text-align: center;
+    color: #2A2C3D;
+    margin-left: 120px;
+}
+
+
+
 @media screen and (max-width: 768px) {
     .mainalign {
         width: 90%;
