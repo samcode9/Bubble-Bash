@@ -74,12 +74,54 @@ a{
     color: #2A2C3D;
     margin-left: 120px;
 }
-
-
-
-
-@media screen and (max-width: 768px) {
-    .mainalign {
-        width: 90%;
-    }
+.servicebg,.align{
+    padding-top: 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.servicebg{
+    background-color: #f5f5f5;
+    height: 690px;
+}
+#txtcol{
+    color: #2A2C3D;
+}
+#parasize{
+    color: #2A2C3D;
+    font-size: 36px;
+}
+.marginTL{
+    margin-top: 48px; 
+    margin-left: 10px;   
+}
+.options,.optionC{
+    background-color: white;
+    box-shadow: 5px 5px rgb(223, 222, 222);
+    padding: 10px;
+    color: #2A2C3D;
+    text-align: center;
+    width: 200px;
+    display: inline-block;
+}
+.marginTfont{
+    font-size: 24px;
+}
+#imagesize{
+    margin-top: 15px;
+    width: 48px;
+    height: 48px;
+}
+.optionC{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+#himg{
+    width: 250px;
+}
+.divA,.divB,.divC{
+    display: inline-block;  
+}
+.divB{
+    margin-right: 71px;
+    margin-left: 71px;
 }
