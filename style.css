@@ -125,3 +125,17 @@ a{
     margin-right: 71px;
     margin-left: 71px;
 }
+#bfont{
+    font-size: 20px;
+    margin-top: 16px;
+}
+#imargin{
+    margin-top: 8px;
+}
+.display,.display2{
+    display: inline-block;
+}
+.display2{
+    margin-right: 71px;
+    margin-left: 71px;
+}
